@@ -1,5 +1,5 @@
 # Trybers and Dragons
-[9/13] [Desenvolvimento Back-end](https://github.com/G-Alves1/Trybe/tree/main/03_Desenvolvimento-Back-end)
+[9/13] [Desenvolvimento Back-end](https://github.com/xitusz/Trybe/tree/main/03_Desenvolvimento-Back-end)
 
 ---
 
@@ -30,7 +30,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/trybers-and-dragons.git
+    git clone git@github.com:xitusz/trybers-and-dragons.git
   ```
 
 ---
